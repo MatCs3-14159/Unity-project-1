@@ -109,7 +109,7 @@ Click Play in Unity Editor
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatCs3-14159&show_icons=true&theme=tokyonight)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rachit20006&show_icons=true&theme=tokyonight)
 ---
 
 ## 🤝 Contributing
@@ -147,6 +147,6 @@ This project is licensed under the MIT License.
 - GitHub: https://github.com/MatCs3-14159
 
 **Rachit Subedi**
-- LinkedIn: www.linkedin.com/in/
+- LinkedIn: www.linkedin.com/in/rachit-subedi-93b72a3b7
 - GitHub: https://github.com/Rachit20006
 
