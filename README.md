@@ -113,7 +113,7 @@ Click Play in Unity Editor
 ---
 
 ## 🤝 Contributing
-Suggestions, ideas, and feedback are welcome!
+This is a team project developed collaboratively. Contributions, suggestions, and feedback are welcome!
 
 ---
 
@@ -122,14 +122,31 @@ This project is licensed under the MIT License.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Team
+
 **Sagar Mishra**  
 🎓 Computer Engineering Student  
-🎮 Aspiring Game Developer  
+🎮 3D Game Designer
+💻 Programmer
+
+**[Rachit Subedi]**  
+🎓 Unity Developer / Designer
 
 ---
 
-## 🔗 Connect With Me
+## 🧑‍🤝‍🧑 Roles & Responsibilities
+- **Sagar Mishra** – Game Logic, Player Controller, UI 
+- **Rachit Subedi** – Environment Design, 
+
+---
+
+## 🔗 Connect With Us
+
+**Sagar Mishra** 
 - LinkedIn: www.linkedin.com/in/sagar-mishra-a70524380
 - GitHub: https://github.com/MatCs3-14159
+
+**Rachit Subedi**
+- LinkedIn: www.linkedin.com/in/
+- GitHub: https://github.com/Rachit20006
 
