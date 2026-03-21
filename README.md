@@ -130,7 +130,9 @@ This project is licensed under the MIT License.
 💻 Programmer
 
 **[Rachit Subedi]**  
+🎓 Computer Engineering Student  
 🎓 Unity Developer / Designer
+💻 Programmer
 
 ---
 
